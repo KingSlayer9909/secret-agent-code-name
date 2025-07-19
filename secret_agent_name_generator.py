@@ -8,8 +8,6 @@ number=input("Favorite number: ")
 #Simple Check
 if first_name.lower() == "james":
     print("Bond? is That you?!")
-if first_name.lower() =="brandon":
-    print("Is that you FATTY!")
 
 
 # Code name output
