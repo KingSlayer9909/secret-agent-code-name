@@ -12,4 +12,6 @@ A fun Python project that generates secret agent names.
    git clone https://github.com/YOUR_USERNAME/secret-agent-code-name
    cd secret-agent-code-name
    python secret_agent_name_generator.py
+   ## 🔖 Tags
+   #funproject #cybersecurity #fbi
 
