@@ -9,7 +9,7 @@ A fun Python project that generates secret agent names.
 1. Make sure you have Python installed.
 2. Download the file:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/secret-agent-code-name
+   git clone https://github.com/KingSlayer9909/secret-agent-code-name
    cd secret-agent-code-name
    python secret_agent_name_generator.py
    ## 🔖 Tags
